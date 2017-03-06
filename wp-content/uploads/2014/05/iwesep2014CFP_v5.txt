@@ -1,0 +1,129 @@
+*****************************************************************************
+CALL FOR PAPERS - IWESEP 2014
+
+The 6th International Workshop on Empirical Software Engineering in Practice
+  Nov. 12 - 13, 2014 
+  Osaka, Japan 
+  http://iwesep2014.naist.jp/
+
+  Co-located with IPSJ SIGSE
+*****************************************************************************
+The objective of the 6th International Workshop on Empirical Software 
+Engineering in Practice (IWESEP) is to foster the development of the 
+area by providing a forum where researchers and practitioners can 
+report on and discuss new research results and applications in the 
+area of empirical software engineering. The workshop encourages the 
+exchange of ideas within the international community so as to be able 
+to understand, from an empirical viewpoint, the strengths and weaknesses 
+of technology in use and new technologies, with the expectation of 
+furthering the more generic field of software engineering.
+
+The workshop focuses on the processes, design and structure of empirical 
+studies as well as the results of specific studies. These studies may be 
+on original or replicated studies, varying from controlled experiments to 
+field studies, from quantitative to qualitative. We solicit the following 
+two types of submissions: full research papers (max 6 pages) for oral 
+presentations and fast abstracts (max 700 words) for poster presentations. 
+Please check the website for more information.
+
+Accepted papers will be submitted to the IEEE Computer Society Digital 
+Library and IEEE Xplore.
+
+Topics of interest include, but are not limited to:
+
+ - Empirical studies of software process and product
+ - Comparison of cost estimation techniques
+ - Analysis of the effects of design methods and characteristics
+ - Evaluation of the readability of coding styles
+ - Development, derivation and/or comparison of organizational models of
+   software development
+ - Evaluation of testing methodologies
+ - Reports on the benefits derived from using development environments
+ - Development of predictive models reliability from real data
+ - Infrastructure issues, such as measurement theory, experimental design,
+   qualitative modeling and analysis approaches
+ - Experiences with research methods such as grounded theory, protocol
+   studies or families of experiments
+ - Industrial experience in process improvement
+ - Quality measurement
+ - Process modeling and applications in industry
+ - Experience management
+
+*****************************************************************************
+Submission:
+
+All papers must be formatted using the IEEE Conference Publishing Services 
+(CPS) Formatting Guidelines (two-column format) and should be submitted 
+through EasyChair. 
+http://www.easychair.org/conferences/?conf=iwesep2014
+
+*****************************************************************************
+Important Dates:
+
+ Abstract submission: Jul. 11, 2014
+ Paper submission:    Jul. 16, 2014
+ Notification:        Aug. 29, 2014
+ Camera Ready:        Sep. 19, 2014
+
+*****************************************************************************
+Organization:
+
+General Chair
+ Raula Gaikovina Kula (Osaka University, Japan)
+
+Program Co-Chairs
+ Yoshiki Higo (Osaka University, Japan)
+ Zhen Ming Jiang (York University, Canada)
+
+Tutorial Chair
+ Kazuhiro Yamashita (Kyushu University, Japan)
+
+Registration Chair
+ Takao Nakagawa (Nara Institute of Science and Technology, Japan)
+
+Publication Chair
+ Eunjong Choi (Osaka University, Japan)
+
+Web Chair
+ Kenji Fujiwara (NAIST, Japan)
+ 
+Local Arrangements Chair
+ Hiroshi Igaki (Osaka University, Japan)
+
+Publicity Co-Chairs
+ Hiroaki Hashiura (NIT, Japan)
+ Jacky Wai Keung (City University of Hong Kong, HK)
+ Takeshi Nagaoka (Toshiba Solutions Corp., Japan)
+
+Steering Committee
+ Akinori Ihara (NAIST, Japan)
+ Yasutaka Kamei (Kyushu University, Japan)
+ Shinsuke Matsumoto (Kobe University, Japan)
+ Masateru Tsunoda (Kinki University, Japan)
+
+Advisory Committee
+ Katsuro Inoue (Osaka University, Japan)
+ Shinji Kusumoto (Osaka University, Japan)
+ Kenichi Matsumoto (NAIST, Japan)
+
+Program Committee
+ Bram Adams (MCIS, Ecole Polytechnique de Montreal, Canada)
+ Neil Ernst (SEI, Carnegie Mellon University, USA)
+ Daniel German (University of Victoria, Canada)
+ Marco Gerosa (University of Sao Paulo, Brazil)
+ Hideaki Hata (NAIST, Japan)
+ Shinpei Hayashi (Tokyo Institute of Technology, Japan)
+ Keisuke Hotta (Osaka University, Japan)
+ Akinori Ihara (NAIST, Japan)
+ Yasutaka Kamei (Kyushu University, Japan)
+ Iman Keivanloo (Queen's University, Canada)
+ Foutse Khomh (Ecole Polytechnique de Montreal, Canada)
+ Thierry Lavoie (Ecole Polytechnique de Montreal, Canada)
+ David Lo (Singapore Management University, Singapore)
+ Haroon Malik (University of Waterloo, Canada)
+ Shane Mcintosh (Queen's University, Canada)
+ Osamu Mizuno (Kyoto Institute of Technology, Canada)
+ Meiyappan Nagappan (Queen's University, Canada)
+ Peter Rigby (Concordia University, Canada)
+ Zhenchang Xing (Nanyang Technological University, Singapore)
+ Thomas Zimmermann (Microsoft Research, USA)
